@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "content": "Comprar víveres para la semana",
+    "creationDate": "2023-05-15T10:30:00Z",
+    "finishedDate": null,
+    "finished": false,
+    "userId": "user123"
+  },
+  {
+    "id": "2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+    "content": "Llamar al médico para agendar cita",
+    "creationDate": "2023-05-14T15:45:00Z",
+    "finishedDate": "2023-05-15T09:00:00Z",
+    "finished": true,
+    "userId": "user456"
+  },
+  {
+    "id": "3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+    "content": "Preparar presentación para la reunión",
+    "creationDate": "2023-05-16T08:00:00Z",
+    "finishedDate": null,
+    "finished": false,
+    "userId": "user789"
+  },
+  {
+    "id": "4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+    "content": "Hacer ejercicio por 30 minutos",
+    "creationDate": "2023-05-13T18:20:00Z",
+    "finishedDate": "2023-05-13T19:00:00Z",
+    "finished": true,
+    "userId": "user123"
+  },
+  {
+    "id": "5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+    "content": "Leer capítulo 5 del libro",
+    "creationDate": "2023-05-17T20:00:00Z",
+    "finishedDate": null,
+    "finished": false,
+    "userId": "user456"
+  }
+]
