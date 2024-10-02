@@ -1,6 +1,6 @@
 # PracticalTest
 
-This project technical practice that can be executed using the `start.sh` script.
+This project is a technical practice that can be executed using the `start.sh` script.
 
 ## Running the Projects
 
